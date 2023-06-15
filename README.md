@@ -1,16 +1,15 @@
 # MIMjae
----
+
 ### Hi there👋 I'm MIMjae.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMIMjae&count_bg=%23F8E64E&title_bg=%23555555&icon=github.svg&icon_color=%23CDCDC4&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:qkralswo70@gmail.com) 
 
 
+### 🌱 Tech Stack 🌱
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=MIMjae" height="165">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=MIMjae&theme=gruvbox" height="165">
 
-<br><br>
-<h4 align="left">🌱 Tech Stack 🌱</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
