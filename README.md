@@ -7,8 +7,10 @@
 
 ![MIMjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=delay-100&show_icons=true&theme=radical)
 
-<h3 align="left">📚 Tech Stack 📚</h3>
-<p align="left">
+
+<br><br>
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
@@ -21,7 +23,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="left">🌈 Follow Me 🌈</h3>
-<p align="left">
+<h3 align="center">🌈 Follow Me 🌈</h3>
+<p align="center">
   <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=qkralswo70@gmail.com"/></a>
 </p>
