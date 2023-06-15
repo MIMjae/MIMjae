@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=Hi,%20I'm%20MIMjae&fontSize=50)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMIMjae&count_bg=%23F8E64E&title_bg=%23555555&icon=github.svg&icon_color=%23CDCDC4&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
