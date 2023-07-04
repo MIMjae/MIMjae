@@ -6,7 +6,7 @@
 
 #### 🌱 Tech Stack 🌱
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=MIMjae&theme=gruvbox" height="165">
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=MIMjae&theme=gruvbox" height="165"> -->
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -28,4 +28,4 @@
  
 <br>
 
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMIMjae&count_bg=%236A76AF&title_bg=%23555555&icon=github.svg&icon_color=%23CDCDC4&title=VISTIT&edge_flat=false)](https://hits.seeyoufarm.com) -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMIMjae&count_bg=%236A76AF&title_bg=%23555555&icon=github.svg&icon_color=%23CDCDC4&title=VISTIT&edge_flat=false)](https://hits.seeyoufarm.com)
